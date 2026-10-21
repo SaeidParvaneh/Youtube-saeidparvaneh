@@ -1,0 +1,8 @@
+{
+  "name": "Remix SPM YOUTUBE AI",
+  "description": "دستیار هوشمند رشد، بهینه‌سازی، آنالیز و انتشار موسیقی در یوتیوب برای سعید پروانه (@saeidparvaneh)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
